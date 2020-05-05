@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Programacion-Orientada-Objetos/1.0.0": {
+        "runtime": {
+          "Programacion-Orientada-Objetos.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Programacion-Orientada-Objetos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
