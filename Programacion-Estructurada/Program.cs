@@ -9,14 +9,14 @@ namespace Programacion_Estructurada
             // -------------------------------------------------------------------------------------
             // DECLARACION VARIABLES
             // -------------------------------------------------------------------------------------
-            //Empleado
+            // Empleado del mes
             string nombre1, nombre2, nombre3;
             string apellido1, apellido2, apellido3;
             Boolean afiliado1 = false, afiliado2 = false, afiliado3 = false;
-            //Afiliado
+            // Afiliado
             int numAfi1 = 0, numAfi2 = 0, numAfi3 = 0;
             Boolean delegado1 = false, delegado2 = false, delegado3 = false;
-            // variable de lectura por consola
+            // Variable de lectura por consola
             string linea;
             // -------------------------------------------------------------------------------------
             //INGRESO DE INFORMACION
